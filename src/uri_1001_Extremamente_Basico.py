@@ -1,7 +1,7 @@
 # https://www.urionlinejudge.com.br/judge/pt/problems/view/1001
-A = int(input())
-B = int(input())
+a = int(input())
+b = int(input())
 
-X = A + B
+x = a + b
 
-print("X = {}".format(X))
+print("X = {}".format(x))

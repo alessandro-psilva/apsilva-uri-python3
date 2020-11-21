@@ -1,8 +1,8 @@
 # https://www.urionlinejudge.com.br/judge/pt/problems/view/1007
-A = int(input())
-B = int(input())
-C = int(input())
-D = int(input())
+a = int(input())
+b = int(input())
+c = int(input())
+d = int(input())
 
-DIFERENCA = ((A * B) - (C * D))
-print("DIFERENCA = {}".format(DIFERENCA))
+vdiferenca = ((a * b) - (c * d))
+print("DIFERENCA = {}".format(vdiferenca))

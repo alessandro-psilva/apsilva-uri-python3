@@ -1,6 +1,6 @@
 # https://www.urionlinejudge.com.br/judge/pt/problems/view/1005
-A = float(input())
-B = float(input())
+a = float(input())
+b = float(input())
 
-MEDIA = ((A * 3.5) + (B * 7.5)) / 11
-print("MEDIA = {:.5f}".format(MEDIA))
+vmedia = ((a * 3.5) + (b * 7.5)) / 11
+print("MEDIA = {:.5f}".format(vmedia))

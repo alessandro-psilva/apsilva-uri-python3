@@ -1,6 +1,6 @@
 # https://www.urionlinejudge.com.br/judge/pt/problems/view/1003
-A = int(input())
-B = int(input())
+a = int(input())
+b = int(input())
 
-SOMA = A + B
-print("SOMA = {}".format(SOMA))
+vsoma = a + b
+print("SOMA = {}".format(vsoma))
